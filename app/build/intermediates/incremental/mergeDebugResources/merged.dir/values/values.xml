@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="Title_NumResumes">Number of Resumes:</string>
+    <string name="Title_age">Your Age:</string>
+    <string name="Title_lastname">Name:</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Activity Life-cycle</string>
+    <string name="btnTry">Try me!</string>
+    <string name="button_send">Send</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="hello_me">This exercise demonstrates the:\n
+        		 Activity life-cycle callback methods,\n
+        		 Views referencing, \n
+        		 and On-click handler</string>
+    <string name="lastname_hint">enter here your first name</string>
+    <string name="welcome">Welcome %s, this is your first Java coding experience in Android. Congratulation!!!</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextFont">
+        <item name="android:textColor">#000000</item>
+
+        <item name="android:typeface">serif</item>
+    </style>
+</resources>

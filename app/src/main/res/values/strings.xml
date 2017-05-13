@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Activity Life-cycle</string>
+    <string name="hello_me">This exercise demonstrates the:\n
+        		 Activity life-cycle callback methods,\n
+        		 Views referencing, \n
+        		 and On-click handler</string>
+    <string name="action_settings">Settings</string>
+ 	<string name="edit_message">Enter a message</string>
+ 	 <string name="button_send">Send</string>
+ 	 <string name="Title_lastname">Name:</string>
+ 	 <string name="Title_age">Your Age:</string>
+ 	 <string name="lastname_hint">enter here your first name</string>
+	 <string name="Title_NumResumes">Number of Resumes:</string>
+	 <string name="btnTry">Try me!</string>
+	 <string name="welcome">Welcome %s, this is your first Java coding experience in Android. Congratulation!!!</string>
+</resources>
